@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black 
+Favorite food: Bread
+Favorite musician/band: Moshiko Mor
+Favorite movie: Star Wars
+Requested grade in the course: 100!
